@@ -52,7 +52,7 @@
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>Name</th>
+                        <th> Category Name</th>
                         <th>Parent</th>
                         <th>Active</th>
                         <th width="280px">Action</th>
