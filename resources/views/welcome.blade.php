@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Search Categories</title>
+    <title>Search Categories from here</title>
 </head>
 <body style="text-align: center">
     <h1>Search Categories</h1>
